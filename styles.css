@@ -202,3 +202,21 @@ body {
         display: block;
     }
 }
+/* Footer Section */
+.footer {
+    background-color: #343a40;
+    color: #ccc;
+    text-align: center;
+    padding: 1rem;
+    margin-top: auto;
+}
+
+.footer a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer a:hover {
+    color: #007bff;
+}

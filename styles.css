@@ -193,15 +193,12 @@ body {
 
     #menu-toggle:checked + .hamburger + .navbar-menu {
         display: flex;
-        max-height: 300px;
-      
-        
+        max-height: 300px; 
     }
 
     .hamburger {
         display: block;
     }
-}
 /* Footer Section */
 .footer {
     background-color: #343a40;

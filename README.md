@@ -1,4 +1,4 @@
-# Responsive Web Design with CSS Libraries I(Bootstrap)
+# Responsive Web Design with CSS Libraries (Bootstrap)
 
 ## What You're Aiming For
 
